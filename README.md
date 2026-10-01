@@ -49,6 +49,6 @@ The model is evaluated using **5-fold cross-validation**.
 This project was completed as a B.Tech Major Project in the Department of Computer Science and Engineering (Artificial Intelligence and Machine Learning) at GNI during 2025–26.
 
 
-##Disclaimer
+## Disclaimer
 
 This project is an academic machine learning implementation and is not intended for clinical diagnosis or medical decision-making.
