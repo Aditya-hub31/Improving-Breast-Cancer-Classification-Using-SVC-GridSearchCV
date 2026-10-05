@@ -54,9 +54,7 @@ Nine of the "mean" features are used:
 
 | Input form | Result page | Performance |
 |------------|-------------|-------------|
-|<img width="795" height="381" alt="image" src="https://github.com/user-attachments/assets/fd3d018a-36e0-4563-a8c0-23ef68ba91d6" /> | <img width="795" height="346" alt="image" src="https://github.com/user-attachments/assets/50d9c892-4f04-4009-9e49-881ae73d7f81" />  <img width="722" height="295" alt="image" src="https://github.com/user-attachments/assets/e27d4c21-3db4-4a31-8107-42d2ce9cf4d0" />
-|<img width="722" height="362" alt="image" src="https://github.com/user-attachments/assets/815528f9-ab9d-47d5-b6c5-84e3a6dd8b06" />
-|
+|<img width="795" height="381" alt="image" src="https://github.com/user-attachments/assets/fd3d018a-36e0-4563-a8c0-23ef68ba91d6" /> | <img width="795" height="346" alt="image" src="https://github.com/user-attachments/assets/50d9c892-4f04-4009-9e49-881ae73d7f81" />|<img width="722" height="362" alt="image" src="https://github.com/user-attachments/assets/815528f9-ab9d-47d5-b6c5-84e3a6dd8b06" />|
 
 ---
 
